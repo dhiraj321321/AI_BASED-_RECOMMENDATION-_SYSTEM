@@ -70,3 +70,6 @@ Future Enhancements:
 Implement hybrid recommendation models combining collaborative and content-based filtering.
 Support larger datasets and real-time recommendations.
 Add additional algorithms for improved accuracy and scalability.
+
+**output**:
+![Image](https://github.com/user-attachments/assets/b470f62f-2ab6-4b95-87cc-43cfbe33f865)
